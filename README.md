@@ -1,4 +1,6 @@
 ---
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/9d93fbf2-5505-44f2-b70f-32f5988a91fc.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/nodejs-docs-hello-world?orgId=666444378491)  
 page_type: sample
 languages:
 - nodejs
